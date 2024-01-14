@@ -1,0 +1,52 @@
+body {
+    font: normal 18px Arial;
+    background: black;
+    color: white;
+}
+
+.img1 {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+}
+
+.sessao {
+    position: absolute; 
+    top: 110vh; 
+    left: 50%;  
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.titulo {
+    text-align: center;
+    
+}
+
+.divs {
+    border: solid 1px white;
+    margin: 5px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.par {
+    font-size: 20px;
+}
+
+.anc {
+    color: white;
+    border: solid 1px black;
+    background: red;
+    padding: 5px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+footer {
+    margin: 10px;
+
+}
+
